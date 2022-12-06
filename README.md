@@ -2,5 +2,4 @@
 - Meu email de contato é ana.gabrieladafonseca.silva@escola.pr.gov.br
 - 👀 Eu estou interessado em aprender a programar novas linguagens.
 - 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scrath
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ Eu estou querendo colaborar com o meu aprendizado, organização e cooperatividade
